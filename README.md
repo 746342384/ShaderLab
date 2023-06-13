@@ -1,2 +1,2 @@
 # ShaderLab
-Shader学习记录
+《UnityShaderLab新手宝典》学习记录
